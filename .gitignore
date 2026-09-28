@@ -1,0 +1,9 @@
+token.json
+oauth_client.json
+*.db
+logs/
+.env
+venv/
+share.env
+__pycache__/
+.DS_Store
